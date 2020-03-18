@@ -1,5 +1,5 @@
 ## YAML Template.
----language: ruby
+---language: java
 rvm:
     - 2.2
-    - jruby
+    - jjava 
